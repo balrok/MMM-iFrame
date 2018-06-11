@@ -1,5 +1,10 @@
-# Module: MMM-iFrame
-The `MMM-iFrame` module is for MagicMirror. It is a simple way to add an iFrame of any web content to your [MagicMirror](https://github.com/MichMich/MagicMirror).  Please note that not all websites support being in a iFrame.
+# Module: MMM-iFrame2
+This is a fork of https://github.com/alberttwong/MMM-iFrame. I need it because with mmm pagination it is not possible to have one module
+twice. So this is my renaming of mmm-iframe.
+
+
+
+The `MMM-iFrame2` module is for MagicMirror. It is a simple way to add an iFrame of any web content to your [MagicMirror](https://github.com/MichMich/MagicMirror).  Please note that not all websites support being in a iFrame.
 
 ## Use case examples
 
@@ -21,7 +26,7 @@ To use this module, add it to the modules array in the `config/config.js` file:
 ````javascript
 modules: [
 	{
-		module: 'MMM-iFrame',
+		module: 'MMM-iFrame2',
 		position: 'bottom_bar',	// This can be any of the regions.
 		config: {
 			// See 'Configuration options' for more information.

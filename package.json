@@ -1,10 +1,10 @@
 {
-  "name": "Magic-Mirror-Module-MMM-iFrame",
+  "name": "Magic-Mirror-Module-MMM-iFrame22",
   "version": "1.0.0",
   "description": "Iframe module for Magic Mirror.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alberttwong/MMM-iFrame"
+    "url": "git+https://github.com/balrok/MMM-iFrame222"
   },
   "keywords": [
     "magic mirror",
@@ -13,12 +13,12 @@
     "module"
   ],
   "author": "Albert Wong",
-  "contributors": "https://github.com/alberttwong/MMM-iFrame/graphs/contributors",
+  "contributors": "https://github.com/alberttwong/MMM-iFrame22/graphs/contributors",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alberttwong/MMM-iFrame/issues"
+    "url": "https://github.com/alberttwong/MMM-iFrame22/issues"
   },
-  "homepage": "https://github.com/alberttwong/MMM-iFrame#readme",
+  "homepage": "https://github.com/balrok/MMM-iFrame22#readme",
   "dependencies": {
     "request": "latest",
     "express": "latest",
